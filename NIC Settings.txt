@@ -1,0 +1,32 @@
+ValueName	DisplayValue
+*EEE	Disabled
+*FlowControl	Disabled
+*InterruptModeration	Disabled
+*IPChecksumOffloadIPv4	Disabled
+*JumboPacket	Disabled
+*LsoV2IPv4	Disabled
+*LsoV2IPv6	Disabled
+*ModernStandbyWoLMagicPacket	Disabled
+*NumRssQueues	4 Queues
+*PMARPOffload	Disabled
+*PMNSOffload	Disabled
+*PriorityVLANTag	Priority & VLAN Disabled
+*ReceiveBuffers	512
+*RSS	Enabled
+*SpeedDuplex	1.0 Gbps Full Duplex
+*TCPChecksumOffloadIPv4	Disabled
+*TCPChecksumOffloadIPv6	Disabled
+*TransmitBuffers	128
+*UDPChecksumOffloadIPv4	Disabled
+*UDPChecksumOffloadIPv6	Disabled
+*WakeOnMagicPacket	Disabled
+*WakeOnPattern	Disabled
+AdvancedEEE	Disabled
+AutoDisableGigabit	Disabled
+EnableGreenEthernet	Disabled
+GigaLite	Disabled
+NetworkAddress	
+PowerSavingMode	Disabled
+RegVlanid	0
+S5WakeOnLan	Disabled
+WolShutdownLinkSpeed	10 Mbps First
